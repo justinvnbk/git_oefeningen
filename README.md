@@ -50,5 +50,5 @@
 * [tips](999_allerlei/tips.md)
 * [Best Practices](999_allerlei/best_practices.md)
 
-Dit is de versie van Justin V2,
-aalap doet mee. 
+Dit is de versie van Aalap V3
+
