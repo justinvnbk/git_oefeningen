@@ -52,5 +52,4 @@
 
 Blijf hier af aub.
 Dit is de versie van Justin V3,
-aalap doet mee.
-
+aalap doet mee. 
