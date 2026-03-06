@@ -50,5 +50,6 @@
 * [tips](999_allerlei/tips.md)
 * [Best Practices](999_allerlei/best_practices.md)
 
+Blijf hier af.
 Dit is de versie van Justin V3,
 aalap doet mee. 
