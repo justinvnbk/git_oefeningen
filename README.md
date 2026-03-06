@@ -50,6 +50,7 @@
 * [tips](999_allerlei/tips.md)
 * [Best Practices](999_allerlei/best_practices.md)
 
-Blijf hier af.
+Blijf hier af aub.
 Dit is de versie van Justin V3,
-aalap doet mee. 
+aalap doet mee.
+
